@@ -1,0 +1,5 @@
+Create a node server with the get request for the following endpoints:
+1. about: display - "This is the about page"
+2. services: display - "This is the service page"
+3. login: display - "This is the login page"
+4. register: display - "This is the register page" 
